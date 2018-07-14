@@ -5,4 +5,4 @@ Mise à jour des versions des logiciels à partir des liens des étideurs.
 
 erase disk:
 effacement sécurisé des disques (norme DoD) d'un ordinateur avec émission d'un certificat d'éffacement.
-script powershell, pour serveur de deploiment windows 2012 R2.
+script powershell, pour serveur de deploiement windows 2012 R2.
