@@ -11,4 +11,4 @@ script powershell, pour serveur de deploiement windows 2012 R2.
 integration d'un personnage 3d (avec un petit lip sync) a une page web.
 Creation et animation sur blender.
 utilisation de three.js et d'une librairie pour le son.
-<br/>http://gheraibia.free.fr/index1.1.html
+<br/><a href="http://gheraibia.free.fr/index1.1.html">demo</a>
