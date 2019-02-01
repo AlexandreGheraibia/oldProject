@@ -1,5 +1,5 @@
 # oldProject
-## autoit : installation de la suite logiciel
+## autoit : installation de la suite logicielle
 Installation automatique en mode silencieux des logiciels de Pc commercialisés.
 Mise à jour des versions des logiciels à partir des liens des étideurs.Les logiciels sont télécharger automatiquement, si la version du logiciel est plus récente sur le site telecharger.com.
 
